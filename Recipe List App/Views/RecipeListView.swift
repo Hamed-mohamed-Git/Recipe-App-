@@ -30,7 +30,7 @@ struct RecipeListView: View {
                                 .clipped()
                                 .cornerRadius(5)
                             Text(r.name)
-                            Text(" ")
+                            
                         }
                         
                     })
