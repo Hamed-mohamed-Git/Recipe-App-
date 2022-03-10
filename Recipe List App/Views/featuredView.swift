@@ -12,6 +12,8 @@ struct featuredView: View {
     var body: some View {
         VStack(alignment: .leading,spacing: 0){
             Text("Featured Recipe")
+            //khaled
+            //rabii
                 .bold()
                 .padding([.top, .leading])
                 .font(.largeTitle)
